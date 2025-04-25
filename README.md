@@ -94,7 +94,6 @@ streamlit run streamlit_app.py
 ---
 
 ## DEMO
-[Insurance Chatbot.pdf](https://github.com/user-attachments/files/19904486/Insurance.Chatbot.pdf)
 ![Insurance Chatbot-1](https://github.com/user-attachments/assets/39d750e8-8e96-43d9-a883-bb0d0899575f)
 ![Insurance Chatbot-2](https://github.com/user-attachments/assets/244a8a72-2615-427b-b6c9-83bd57cfe617)
 
