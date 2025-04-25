@@ -39,14 +39,15 @@ A conversational AI chatbot built with **LangChain**, **Gemini**, **FAISS**, and
 │   └── langchain_pipeline.py     # Core RAG pipeline
 ├── utils/
 │   ├── loader.py                 # PDF loading & chunking
-│   ├── embedder.py              # Embedding & vectorstore
-│   └── llm_config.py            # Gemini config & prompt
+│   ├── embedder.py               # Embedding & vectorstore
+│   └── llm_config.py             # Gemini config & prompt
 ├── data/                         # Source documents
 │   ├── Life.pdf
 │   ├── Health.pdf
 │   ├── Motor.pdf
 │   ├── Property.pdf
 │   └── ...
+├── requirements.txt              # Dependencies
 └── .env                          # API keys and prompt config
 ```
 
