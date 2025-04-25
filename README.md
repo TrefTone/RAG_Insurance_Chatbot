@@ -1,20 +1,20 @@
-# 🤖 Insurance Chatbot
+# Insurance Chatbot
 
 A conversational AI chatbot built with **LangChain**, **Gemini**, **FAISS**, and **Streamlit** that answers questions about **Life**, **Health**, **Motor**, and **Property Insurance** based on documents from [IRDAI](https://irdai.gov.in/).
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔍 RAG-based Question Answering using Google Gemini
-- 📄 PDF ingestion and document chunking
-- 📚 Semantic search powered by FAISS vectorstore
-- 🌐 Streamlit frontend for interactive Q&A
-- 💬 Fallback to human agent if LLM is unsure
+- RAG-based Question Answering using Google Gemini
+- PDF ingestion and document chunking
+- Semantic search powered by FAISS vectorstore
+- Streamlit frontend for interactive Q&A
+- Fallback to human agent if LLM is unsure
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **PDF Loading & Chunking**  
    PDF documents are loaded using `PyMuPDFLoader` and split using `RecursiveCharacterTextSplitter`.
@@ -30,7 +30,7 @@ A conversational AI chatbot built with **LangChain**, **Gemini**, **FAISS**, and
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -84,7 +84,7 @@ streamlit run streamlit_app.py
 
 ---
 
-## 🧪 Example Questions
+## Example Questions
 
 - What is covered under a health insurance policy?
 - How do I file a motor insurance claim?
