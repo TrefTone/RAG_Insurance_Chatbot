@@ -97,3 +97,6 @@ streamlit run streamlit_app.py
 ![Insurance Chatbot-1](https://github.com/user-attachments/assets/39d750e8-8e96-43d9-a883-bb0d0899575f)
 ![Insurance Chatbot-2](https://github.com/user-attachments/assets/244a8a72-2615-427b-b6c9-83bd57cfe617)
 
+## Fall-back mechanism
+![image](https://github.com/user-attachments/assets/e7584cb3-e7e4-4e1c-8d6b-43f5eba09d38)
+
